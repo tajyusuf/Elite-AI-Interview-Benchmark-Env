@@ -1,0 +1,3 @@
+name: elite-ai-interview-evaluation-environment
+description: Deterministic multi-turn environment for benchmarking AI interviewer agents against realistic hiring interview scenarios.
+version: 1.0.0

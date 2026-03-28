@@ -1,0 +1,6 @@
+.git
+.codex
+__pycache__/
+*/__pycache__/
+.venv/
+_vendor/
